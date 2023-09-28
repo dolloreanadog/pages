@@ -1,0 +1,46 @@
+/* This is a CSS comment*/
+
+/* pattern to make CSS Easier
+
+selector{
+
+*/
+/* Use CSS to style Body tags of HTML pages that references this */
+body{
+    background-color: coral;
+    color: blueviolet;
+}
+
+/* Use CSS to style Nav tags of HTML pages that references this*/
+nav{
+    /* Set height of nav bar to 600px */
+    height: 600px;
+    /* Set width of nav bar to 600px */
+    width: 200px;
+    /*float set to left*/
+    float: left;
+    /* padding set to 5px*/
+    padding: 5px;
+    /*line height set to 30px*/
+    line-height: 30px;
+}
+
+/* CSS to style footer*/
+footer{
+    /* Align text center*/
+    text-align: center;
+    /*margin right set to 200px*/
+    margin-right: 200px;
+}
+
+/* CSS to style image*/
+memeImage{
+    /*margin right set to 200px*/
+    margin-right: 200px;
+}
+
+/* CSS to style header*/
+header{
+    /*text align to center*/
+    text-align: center;
+}
